@@ -1,2 +1,1 @@
-print('t.me/keyboards')
-  
+print('t.me/keyboards');
